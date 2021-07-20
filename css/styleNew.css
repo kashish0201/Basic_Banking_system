@@ -1,0 +1,46 @@
+body{
+    /* background-color: #4795fc; */
+    
+    /* background-color: #1679bb; */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+
+
+.func_card{
+    background-image: url("img/user.jpg");
+    width: 25%;
+    text-align: center;
+    display: flex;
+    margin: 5%;
+} 
+
+.func_link{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 400%;
+    /* background-color: #3f3bbe; */
+    background-color: #E1F4F3;
+    color: #004A7C;
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 10px;
+}
+
+ 
+.func_link:hover{
+    background-color: #E1F4F3;
+    color: #004A7C;
+} 
+
+.card-container{
+    display: flex;
+} 
+
+
+.test{
+    background-color: yellow;
+}
